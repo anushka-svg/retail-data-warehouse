@@ -102,21 +102,6 @@ export function Sidebar() {
           51,290 order lines · Global retail · 2011–2014
         </p>
       </div>
-
-      <div className="mt-4 rounded-lg border border-white/10 bg-white/5 p-4 text-xs leading-5 text-slate-400">
-        <p className="font-semibold uppercase tracking-[0.16em] text-slate-500">
-          Author
-        </p>
-        <p className="mt-2 text-slate-300">Jovan Paić</p>
-        <a
-          className="mt-1 block text-slate-300 transition hover:text-white"
-          href="https://github.com/jpaic/retail-data-warehouse"
-          rel="noreferrer"
-          target="_blank"
-        >
-          ↗ GitHub Repository
-        </a>
-      </div>
     </aside>
   );
 }
